@@ -1,0 +1,11 @@
+{
+    "Name": "[CP] Wild Greenhouse Interior",
+    "Author": "StarAmy",
+    "Version": "1.0.0",
+    "Description": "A replacement greenhouse map with weather-related effects and animated critter additions.",
+    "UniqueID": "StarAmy.Greenhouse",
+    "MinimumApiVersion": "2.11.0",
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

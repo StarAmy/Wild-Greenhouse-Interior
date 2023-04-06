@@ -1,0 +1,1338 @@
+{
+    "Format": "1.28",
+    "Changes": [
+         {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 600, 1800}}",
+            "Weather": "Sun",
+            "FarmhouseUpgrade": "0"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Night_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 1800, 2600}}",
+            "Weather": "Sun",
+            "FarmhouseUpgrade": "0"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 600, 1800}}",
+            "Weather": "Wind",
+            "FarmhouseUpgrade": "0"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Night_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 1800, 2600}}",
+            "Weather": "Wind",
+            "FarmhouseUpgrade": "0"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 600, 1800}}",
+            "Weather": "Snow",
+            "FarmhouseUpgrade": "0"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Night_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 1800, 2600}}",
+            "Weather": "Snow",
+            "FarmhouseUpgrade": "0"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Raining_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 600, 1800}}",
+            "Weather": "Rain",
+            "FarmhouseUpgrade": "0"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Night_Raining_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 1800, 2600}}",
+            "Weather": "Rain",
+            "FarmhouseUpgrade": "0"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Raining_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 600, 1800}}",
+            "Weather": "Storm",
+            "FarmhouseUpgrade": "0"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Night_Raining_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 1800, 2600}}",
+            "Weather": "Storm",
+            "FarmhouseUpgrade": "0"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 600, 1800}}",
+            "Weather": "Sun",
+            "FarmhouseUpgrade": "1"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Night_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 1800, 2600}}",
+            "Weather": "Sun",
+            "FarmhouseUpgrade": "1"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 600, 1800}}",
+            "Weather": "Wind",
+            "FarmhouseUpgrade": "1"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Night_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 1800, 2600}}",
+            "Weather": "Wind",
+            "FarmhouseUpgrade": "1"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 600, 1800}}",
+            "Weather": "Snow",
+            "FarmhouseUpgrade": "1"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Night_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 1800, 2600}}",
+            "Weather": "Snow",
+            "FarmhouseUpgrade": "1"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Raining_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 600, 1800}}",
+            "Weather": "Rain",
+            "FarmhouseUpgrade": "1"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Night_Raining_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 1800, 2600}}",
+            "Weather": "Rain",
+            "FarmhouseUpgrade": "1"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Raining_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 600, 1800}}",
+            "Weather": "Storm",
+            "FarmhouseUpgrade": "1"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Night_Raining_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 1800, 2600}}",
+            "Weather": "Storm",
+            "FarmhouseUpgrade": "1"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 600, 1800}}",
+            "Weather": "Sun",
+            "FarmhouseUpgrade": "2"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Night_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 1800, 2600}}",
+            "Weather": "Sun",
+            "FarmhouseUpgrade": "2"
+            },
+            "Update": "OnLocationChange",
+            },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 600, 1800}}",
+            "Weather": "Wind",
+            "FarmhouseUpgrade": "2"
+            },
+            "Update": "OnLocationChange",
+            
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Night_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 1800, 2600}}",
+            "Weather": "Wind",
+            "FarmhouseUpgrade": "2"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 600, 1800}}",
+            "Weather": "Snow",
+            "FarmhouseUpgrade": "2"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Night_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 1800, 2600}}",
+            "Weather": "Snow",
+            "FarmhouseUpgrade": "2"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Raining_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 600, 1800}}",
+            "Weather": "Rain",
+            "FarmhouseUpgrade": "2"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Night_Raining_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 1800, 2600}}",
+            "Weather": "Rain",
+            "FarmhouseUpgrade": "2"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Raining_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 600, 1800}}",
+            "Weather": "Storm",
+            "FarmhouseUpgrade": "2"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Night_Raining_NoCellar.tmx",
+            "When":{ 
+            "Time": "{{Range: 1800, 2600}}",
+            "Weather": "Storm",
+            "FarmhouseUpgrade": "2"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse.tmx",
+            "When":{ 
+            "Time": "{{Range: 600, 1800}}",
+            "Weather": "Sun",
+            "FarmhouseUpgrade": "3"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Night.tmx",
+            "When":{ 
+            "Time": "{{Range: 1800, 2600}}",
+            "Weather": "Sun",
+            "FarmhouseUpgrade": "3"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse.tmx",
+            "When":{ 
+            "Time": "{{Range: 600, 1800}}",
+            "Weather": "Wind",
+            "FarmhouseUpgrade": "3"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Night.tmx",
+            "When":{ 
+            "Time": "{{Range: 1800, 2600}}",
+            "Weather": "Wind",
+            "FarmhouseUpgrade": "3"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse.tmx",
+            "When":{ 
+            "Time": "{{Range: 600, 1800}}",
+            "Weather": "Snow",
+            "FarmhouseUpgrade": "3"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Night.tmx",
+            "When":{ 
+            "Time": "{{Range: 1800, 2600}}",
+            "Weather": "Snow",
+            "FarmhouseUpgrade": "3"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Raining.tmx",
+            "When":{ 
+            "Time": "{{Range: 600, 1800}}",
+            "Weather": "Rain",
+            "FarmhouseUpgrade": "3"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Night_Raining.tmx",
+            "When":{ 
+            "Time": "{{Range: 1800, 2600}}",
+            "Weather": "Rain",
+            "FarmhouseUpgrade": "3"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Raining.tmx",
+            "When":{ 
+            "Time": "{{Range: 600, 1800}}",
+            "Weather": "Storm",
+            "FarmhouseUpgrade": "3"
+            },
+            "Update": "OnLocationChange",
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/Greenhouse_Night_Raining.tmx",
+            "When":{ 
+            "Time": "{{Range: 1800, 2600}}",
+            "Weather": "Storm",
+            "FarmhouseUpgrade": "3"
+            },
+            "Update": "OnLocationChange",
+            
+        },
+        {
+            "Action": "EditMap",
+            "Target": "Maps/Greenhouse",
+            "When":{ 
+            "FarmhouseUpgrade": "0"
+            },
+            "Update": "OnLocationChange",
+            "AddWarps": [
+                "36 30 Farm 28 16"
+            ],
+            "MapProperties": 
+                {
+                        "Light" : "2 2 4 2 3 4 2 4 4 2 5 4 2 6 4 2 7 4 9 2 4 9 3 4 9 4 4 9 5 4 9 6 4 9 7 4 13 2 4 13 3 4 13 4 4 13 5 4 13 6 4 13 7 4 20 2 4 20 3 4 20 4 4 20 5 4 20 6 4 20 7 4 22 12 4 22 13 4 22 14 4 22 15 4 22 16 4 22 17 4 26 12 4 26 13 4 26 14 4 26 15 4 26 16 4 26 17 4 27 10 4 27 11 4 27 12 4 28 1 4 28 2 4 28 3 4 28 4 4 28 5 4 28 6 4 31 10 4 31 11 4 31 12 4 32 1 4 32 2 4 32 3 4 32 4 4 32 5 4 32 6 4 39 17 4 39 18 4 40 1 4 40 2 4 40 3 4 40 4 4 40 5 4 40 6 4 41 10 4 41 11 4 41 12 4 44 1 4 44 2 4 44 3 4 44 4 4 44 5 4 44 6 4 45 10 4 45 11 4 45 12 4 46 12 4 46 13 4 46 14 4 46 15 4 46 16 4 46 17 4 50 12 4 50 13 4 50 14 4 50 15 4 50 16 4 50 17 4 52 1 4 52 2 4 52 3 4 52 4 4 52 5 4 52 6 4 60 1 4 60 2 4 60 3 4 60 4 4 60 5 4 60 6 4 63 1 4 63 2 4 63 3 4 63 4 4 63 5 4 63 6 4 71 1 4 71 2 4 71 3 4 71 4 4 71 5 4 71 6 4",
+                        "AmbientLight" : "75 75 75",
+                    },
+             "MapTiles": [
+                {
+                    "Position": { "X": 32, "Y": 6 },
+                    "Layer": "Buildings",
+                    "SetProperties": {
+                        "Action": "Jukebox"
+                    }
+                },
+                 {
+                    "Position": { "X": 34, "Y": 19 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 34, "Y": 20 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 34, "Y": 21 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 34, "Y": 22 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                {
+                    "Position": { "X": 35, "Y": 19 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 35, "Y": 20 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 35, "Y": 21 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 35, "Y": 22 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                {
+                    "Position": { "X": 36, "Y": 18 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "TouchAction": "PoolExit"
+                    }
+                },
+                {
+                    "Position": { "X": 36, "Y": 19 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "TouchAction": "PoolEntrance",
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                {
+                    "Position": { "X": 36, "Y": 20 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 36, "Y": 21 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 36, "Y": 22 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                {
+                    "Position": { "X": 36, "Y": 30 },
+                    "Layer": "Buildings",
+                    "SetProperties": {
+                        "Action": "Warp 28 16 Farm"
+                    }
+                },
+                {
+                    "Position": { "X": 37, "Y": 19 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 37, "Y": 20 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 37, "Y": 21 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 37, "Y": 22 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                {
+                    "Position": { "X": 38, "Y": 19 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 38, "Y": 20 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 38, "Y": 21 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 38, "Y": 22 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                {
+                    "Position": { "X": 48, "Y": 17 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "TouchAction": "Warp FarmCave 8 8"
+                    }
+                },
+                {
+                    "Position": { "X": 61, "Y": 7 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "TouchAction": "ChangeIntoSwimsuit"
+                    }
+                },
+                {
+                    "Position": { "X": 62, "Y": 7 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "TouchAction": "ChangeOutOfSwimsuit"
+                    }
+                },
+            ]
+        },
+        {
+            "Action": "EditMap",
+            "Target": "Maps/Greenhouse",
+            "When":{ 
+            "FarmhouseUpgrade": "1"
+            },
+            "Update": "OnLocationChange",
+            "AddWarps": [
+                "36 30 Farm 28 16"
+            ],
+            "MapProperties": 
+                {
+                        "Light" : "2 2 4 2 3 4 2 4 4 2 5 4 2 6 4 2 7 4 9 2 4 9 3 4 9 4 4 9 5 4 9 6 4 9 7 4 13 2 4 13 3 4 13 4 4 13 5 4 13 6 4 13 7 4 20 2 4 20 3 4 20 4 4 20 5 4 20 6 4 20 7 4 22 12 4 22 13 4 22 14 4 22 15 4 22 16 4 22 17 4 26 12 4 26 13 4 26 14 4 26 15 4 26 16 4 26 17 4 27 10 4 27 11 4 27 12 4 28 1 4 28 2 4 28 3 4 28 4 4 28 5 4 28 6 4 31 10 4 31 11 4 31 12 4 32 1 4 32 2 4 32 3 4 32 4 4 32 5 4 32 6 4 39 17 4 39 18 4 40 1 4 40 2 4 40 3 4 40 4 4 40 5 4 40 6 4 41 10 4 41 11 4 41 12 4 44 1 4 44 2 4 44 3 4 44 4 4 44 5 4 44 6 4 45 10 4 45 11 4 45 12 4 46 12 4 46 13 4 46 14 4 46 15 4 46 16 4 46 17 4 50 12 4 50 13 4 50 14 4 50 15 4 50 16 4 50 17 4 52 1 4 52 2 4 52 3 4 52 4 4 52 5 4 52 6 4 60 1 4 60 2 4 60 3 4 60 4 4 60 5 4 60 6 4 63 1 4 63 2 4 63 3 4 63 4 4 63 5 4 63 6 4 71 1 4 71 2 4 71 3 4 71 4 4 71 5 4 71 6 4",
+                        "AmbientLight" : "75 75 75",
+                    },
+             "MapTiles": [
+                {
+                    "Position": { "X": 32, "Y": 6 },
+                    "Layer": "Buildings",
+                    "SetProperties": {
+                        "Action": "Jukebox"
+                    }
+                },
+                 {
+                    "Position": { "X": 34, "Y": 19 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 34, "Y": 20 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 34, "Y": 21 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 34, "Y": 22 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                {
+                    "Position": { "X": 35, "Y": 19 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 35, "Y": 20 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 35, "Y": 21 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 35, "Y": 22 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                {
+                    "Position": { "X": 36, "Y": 18 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "TouchAction": "PoolExit"
+                    }
+                },
+                {
+                    "Position": { "X": 36, "Y": 19 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "TouchAction": "PoolEntrance",
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                {
+                    "Position": { "X": 36, "Y": 20 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 36, "Y": 21 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 36, "Y": 22 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                {
+                    "Position": { "X": 36, "Y": 30 },
+                    "Layer": "Buildings",
+                    "SetProperties": {
+                        "Action": "Warp 28 16 Farm"
+                    }
+                },
+                {
+                    "Position": { "X": 37, "Y": 19 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 37, "Y": 20 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 37, "Y": 21 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 37, "Y": 22 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                {
+                    "Position": { "X": 38, "Y": 19 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 38, "Y": 20 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 38, "Y": 21 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 38, "Y": 22 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                {
+                    "Position": { "X": 48, "Y": 17 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "TouchAction": "Warp FarmCave 8 8"
+                    }
+                },
+                {
+                    "Position": { "X": 61, "Y": 7 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "TouchAction": "ChangeIntoSwimsuit"
+                    }
+                },
+                {
+                    "Position": { "X": 62, "Y": 7 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "TouchAction": "ChangeOutOfSwimsuit"
+                    }
+                },
+            ]
+        },
+        {
+            "Action": "EditMap",
+            "Target": "Maps/Greenhouse",
+            "When":{ 
+            "FarmhouseUpgrade": "2"
+            },
+            "Update": "OnLocationChange",
+            "AddWarps": [
+                "36 30 Farm 28 16"
+            ],
+            "MapProperties": 
+                {
+                        "Light" : "2 2 4 2 3 4 2 4 4 2 5 4 2 6 4 2 7 4 9 2 4 9 3 4 9 4 4 9 5 4 9 6 4 9 7 4 13 2 4 13 3 4 13 4 4 13 5 4 13 6 4 13 7 4 20 2 4 20 3 4 20 4 4 20 5 4 20 6 4 20 7 4 22 12 4 22 13 4 22 14 4 22 15 4 22 16 4 22 17 4 26 12 4 26 13 4 26 14 4 26 15 4 26 16 4 26 17 4 27 10 4 27 11 4 27 12 4 28 1 4 28 2 4 28 3 4 28 4 4 28 5 4 28 6 4 31 10 4 31 11 4 31 12 4 32 1 4 32 2 4 32 3 4 32 4 4 32 5 4 32 6 4 39 17 4 39 18 4 40 1 4 40 2 4 40 3 4 40 4 4 40 5 4 40 6 4 41 10 4 41 11 4 41 12 4 44 1 4 44 2 4 44 3 4 44 4 4 44 5 4 44 6 4 45 10 4 45 11 4 45 12 4 46 12 4 46 13 4 46 14 4 46 15 4 46 16 4 46 17 4 50 12 4 50 13 4 50 14 4 50 15 4 50 16 4 50 17 4 52 1 4 52 2 4 52 3 4 52 4 4 52 5 4 52 6 4 60 1 4 60 2 4 60 3 4 60 4 4 60 5 4 60 6 4 63 1 4 63 2 4 63 3 4 63 4 4 63 5 4 63 6 4 71 1 4 71 2 4 71 3 4 71 4 4 71 5 4 71 6 4",
+                        "AmbientLight" : "75 75 75",
+                    },
+             "MapTiles": [
+                {
+                    "Position": { "X": 32, "Y": 6 },
+                    "Layer": "Buildings",
+                    "SetProperties": {
+                        "Action": "Jukebox"
+                    }
+                },
+                 {
+                    "Position": { "X": 34, "Y": 19 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 34, "Y": 20 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 34, "Y": 21 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 34, "Y": 22 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                {
+                    "Position": { "X": 35, "Y": 19 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 35, "Y": 20 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 35, "Y": 21 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 35, "Y": 22 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                {
+                    "Position": { "X": 36, "Y": 18 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "TouchAction": "PoolExit"
+                    }
+                },
+                {
+                    "Position": { "X": 36, "Y": 19 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "TouchAction": "PoolEntrance",
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                {
+                    "Position": { "X": 36, "Y": 20 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 36, "Y": 21 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 36, "Y": 22 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                {
+                    "Position": { "X": 36, "Y": 30 },
+                    "Layer": "Buildings",
+                    "SetProperties": {
+                        "Action": "Warp 28 16 Farm"
+                    }
+                },
+                {
+                    "Position": { "X": 37, "Y": 19 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 37, "Y": 20 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 37, "Y": 21 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 37, "Y": 22 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                {
+                    "Position": { "X": 38, "Y": 19 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 38, "Y": 20 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 38, "Y": 21 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 38, "Y": 22 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                {
+                    "Position": { "X": 48, "Y": 17 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "TouchAction": "Warp FarmCave 8 8"
+                    }
+                },
+                {
+                    "Position": { "X": 61, "Y": 7 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "TouchAction": "ChangeIntoSwimsuit"
+                    }
+                },
+                {
+                    "Position": { "X": 62, "Y": 7 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "TouchAction": "ChangeOutOfSwimsuit"
+                    }
+                },
+            ]
+        },
+        {
+            "Action": "EditMap",
+            "Target": "Maps/Greenhouse",
+            "When":{ 
+            "FarmhouseUpgrade": "3"
+            },
+            "Update": "OnLocationChange",
+            "AddWarps": [
+                "36 30 Farm 28 16"
+            ],
+            "MapProperties": 
+                {
+                        "Light" : "2 2 4 2 3 4 2 4 4 2 5 4 2 6 4 2 7 4 9 2 4 9 3 4 9 4 4 9 5 4 9 6 4 9 7 4 13 2 4 13 3 4 13 4 4 13 5 4 13 6 4 13 7 4 20 2 4 20 3 4 20 4 4 20 5 4 20 6 4 20 7 4 22 12 4 22 13 4 22 14 4 22 15 4 22 16 4 22 17 4 26 12 4 26 13 4 26 14 4 26 15 4 26 16 4 26 17 4 27 10 4 27 11 4 27 12 4 28 1 4 28 2 4 28 3 4 28 4 4 28 5 4 28 6 4 31 10 4 31 11 4 31 12 4 32 1 4 32 2 4 32 3 4 32 4 4 32 5 4 32 6 4 39 17 4 39 18 4 40 1 4 40 2 4 40 3 4 40 4 4 40 5 4 40 6 4 41 10 4 41 11 4 41 12 4 44 1 4 44 2 4 44 3 4 44 4 4 44 5 4 44 6 4 45 10 4 45 11 4 45 12 4 46 12 4 46 13 4 46 14 4 46 15 4 46 16 4 46 17 4 50 12 4 50 13 4 50 14 4 50 15 4 50 16 4 50 17 4 52 1 4 52 2 4 52 3 4 52 4 4 52 5 4 52 6 4 60 1 4 60 2 4 60 3 4 60 4 4 60 5 4 60 6 4 63 1 4 63 2 4 63 3 4 63 4 4 63 5 4 63 6 4 71 1 4 71 2 4 71 3 4 71 4 4 71 5 4 71 6 4",
+                        "AmbientLight" : "75 75 75",
+                    },
+             "MapTiles": [
+               {
+                    "Position": { "X": 24, "Y": 17 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "TouchAction": "Warp Cellar 3 7"
+                    }
+                },
+                {
+                    "Position": { "X": 32, "Y": 6 },
+                    "Layer": "Buildings",
+                    "SetProperties": {
+                        "Action": "Jukebox"
+                    }
+                },
+                 {
+                    "Position": { "X": 34, "Y": 19 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 34, "Y": 20 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 34, "Y": 21 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 34, "Y": 22 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                {
+                    "Position": { "X": 35, "Y": 19 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 35, "Y": 20 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 35, "Y": 21 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 35, "Y": 22 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                {
+                    "Position": { "X": 36, "Y": 18 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "TouchAction": "PoolExit"
+                    }
+                },
+                {
+                    "Position": { "X": 36, "Y": 19 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "TouchAction": "PoolEntrance",
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                {
+                    "Position": { "X": 36, "Y": 20 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 36, "Y": 21 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 36, "Y": 22 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                {
+                    "Position": { "X": 36, "Y": 30 },
+                    "Layer": "Buildings",
+                    "SetProperties": {
+                        "Action": "Warp 28 16 Farm"
+                    }
+                },
+                {
+                    "Position": { "X": 37, "Y": 19 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 37, "Y": 20 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 37, "Y": 21 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 37, "Y": 22 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                {
+                    "Position": { "X": 38, "Y": 19 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 38, "Y": 20 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 38, "Y": 21 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                 {
+                    "Position": { "X": 38, "Y": 22 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "Water": "T",
+                        "WaterSource": "T"
+                    }
+                },
+                {
+                    "Position": { "X": 48, "Y": 17 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "TouchAction": "Warp FarmCave 8 8"
+                    }
+                },
+                {
+                    "Position": { "X": 61, "Y": 7 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "TouchAction": "ChangeIntoSwimsuit"
+                    }
+                },
+                {
+                    "Position": { "X": 62, "Y": 7 },
+                    "Layer": "Back",
+                    "SetProperties": {
+                        "TouchAction": "ChangeOutOfSwimsuit"
+                    }
+                },
+            ]
+        },
+    ]
+}

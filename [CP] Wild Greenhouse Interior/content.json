@@ -571,13 +571,6 @@
                     }
                 },
                 {
-                    "Position": { "X": 36, "Y": 30 },
-                    "Layer": "Buildings",
-                    "SetProperties": {
-                        "Action": "Warp 28 16 Farm"
-                    }
-                },
-                {
                     "Position": { "X": 37, "Y": 19 },
                     "Layer": "Back",
                     "SetProperties": {
@@ -792,13 +785,6 @@
                     }
                 },
                 {
-                    "Position": { "X": 36, "Y": 30 },
-                    "Layer": "Buildings",
-                    "SetProperties": {
-                        "Action": "Warp 28 16 Farm"
-                    }
-                },
-                {
                     "Position": { "X": 37, "Y": 19 },
                     "Layer": "Back",
                     "SetProperties": {
@@ -1010,13 +996,6 @@
                     "SetProperties": {
                         "Water": "T",
                         "WaterSource": "T"
-                    }
-                },
-                {
-                    "Position": { "X": 36, "Y": 30 },
-                    "Layer": "Buildings",
-                    "SetProperties": {
-                        "Action": "Warp 28 16 Farm"
                     }
                 },
                 {
@@ -1238,13 +1217,6 @@
                     "SetProperties": {
                         "Water": "T",
                         "WaterSource": "T"
-                    }
-                },
-                {
-                    "Position": { "X": 36, "Y": 30 },
-                    "Layer": "Buildings",
-                    "SetProperties": {
-                        "Action": "Warp 28 16 Farm"
                     }
                 },
                 {
